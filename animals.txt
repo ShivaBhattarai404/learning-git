@@ -6,3 +6,11 @@ tiger
 cheetah
 hyna
 fox
+
+Herbivourous Animals
+======================
+deer
+hen
+cow
+buffalo
+goat
