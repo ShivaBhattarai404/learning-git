@@ -1,3 +1,9 @@
-Animals List
-=======================
+    Animals List
+/*******************/
 
+Omnivourous Animals
+=====================
+Cat
+Dog
+Human
+Fish
