@@ -1,16 +1,9 @@
-Carnivourous Animals
-========================
+    Animals List
+/*******************/
 
-lion
-tiger
-cheetah
-hyna
-fox
-
-Herbivourous Animals
-======================
-deer
-hen
-cow
-buffalo
-goat
+Omnivourous Animals
+=====================
+Cat
+Dog
+Human
+Fish
